@@ -9,7 +9,7 @@
 - **Email**: [zxyidealist@gmail.com]
 
 ### Introduction
-[I am Xuanyu Zhang, a prospective graduate in Artificial Intelligence from Sun Yat-sen University. Having passed the postgraduate entrance examination, I will join the Harbin Institute of Technology (HIT) in Shenzhen to pursue a Master of Engineering degree in Computer Technology. I am currently affiliated with Prof. Toho Tien’s TMG research group at HIT.]
+I am Xuanyu Zhang, a prospective graduate in Artificial Intelligence from Sun Yat-sen University. Having passed the postgraduate entrance examination, I will join the Harbin Institute of Technology (HIT) in Shenzhen to pursue a Master of Engineering degree in Computer Technology. I am currently affiliated with Prof. Toho Tien’s TMG research group at HIT.
 
 ## 🎓 Education
 
