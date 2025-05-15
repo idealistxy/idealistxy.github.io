@@ -30,7 +30,7 @@
 - **Frontend Technologies**: React, HTML5, CSS3
 - **Backend Technologies**: Node.js, Django
 - **Databases**: MySQL
-- **Tools & Platforms**: Git, Docker, AWS, Linux
+- **Tools & Platforms**: Git, Docker, Linux
 
 ### Soft Skills
 - Team Collaboration & Communication
