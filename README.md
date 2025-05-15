@@ -2,82 +2,104 @@
 
 ## 👋 About Me
 
-### Basic Information
-- **Name**: [Xuanyu Zhang]
-- **Role**: [UG student of Sun Yat-sen University/MS student of Harbin Institute of Technology, Shenzhen]
-- **Location**: [Shenzhen, China]
-- **Email**: [zxyidealist@gmail.com]
+**Name**: Xuanyu Zhang  
+**Role**: Undergraduate @ Sun Yat-sen University / Incoming M.Eng @ HIT Shenzhen  
+**Location**: Shenzhen, China  
+**Email**: [zxyidealist@gmail.com](mailto:zxyidealist@gmail.com)  
 
-### Introduction
-I am Xuanyu Zhang, a prospective graduate in Artificial Intelligence from Sun Yat-sen University. Having passed the postgraduate entrance examination, I will join the Harbin Institute of Technology (HIT) in Shenzhen to pursue a Master of Engineering degree in Computer Technology. I am currently affiliated with Prof. Toho Tien’s TMG research group at HIT.
+I am Xuanyu Zhang, a soon-to-be graduate in Artificial Intelligence from Sun Yat-sen University. I will pursue a Master of Engineering in Computer Technology at the Harbin Institute of Technology (HIT), Shenzhen. I am currently affiliated with Prof. Toho Tien’s TMG research group at HIT, where I will begin my graduate research.
+
+---
 
 ## 🎓 Education
 
-- **[undergraduate student] - [Artifucial Intellience]**  
-  *[Sun Yat-sen University] | [2021-2025]*
-  
-- **[Master of Engineering student] - [Computer Technology]**  
-  *[Harbin Institute of Technology, Shenzhen] | [2025-]*
+- **Sun Yat-sen University**, B.Eng in Artificial Intelligence  
+  *2021 – 2025 (expected)*
+
+- **Harbin Institute of Technology, Shenzhen**, M.Eng in Computer Technology  
+  *2025 – (admitted)*
+
+---
+
+## 🛠️ Skills & Expertise
+
+### Programming
+- Python, C++
+- React, HTML5, CSS3
+- Node.js, Django
+- MySQL
+
+### Tools & Platforms
+- Git, Docker, Linux
+
+### Soft Skills
+- Team collaboration
+- Project management
+- Problem solving
+- Creative thinking
+
+---
 
 ## 💼 Professional Experience
 
 - *To be updated*
 
-## 🛠️ Skills & Expertise
-
-### Technical Skills
-- **Programming Languages**: C++, Python
-- **Frontend Technologies**: React, HTML5, CSS3
-- **Backend Technologies**: Node.js, Django
-- **Databases**: MySQL
-- **Tools & Platforms**: Git, Docker, Linux
-
-### Soft Skills
-- Team Collaboration & Communication
-- Project Management
-- Problem Solving
-- Innovation & Creative Thinking
+---
 
 ## 🚀 Featured Projects
 
 - *To be updated*
 
+---
+
 ## 🏆 Achievements & Certifications
 
 - *To be updated*
 
-## 📝 Blog Posts
+---
+
+## 📚 Blog Posts
 
 - *To be updated*
 
+---
+
 ## 🎨 Interests & Hobbies
 
-- 🏃‍♂️ **Fitness & Sports**: Running, gym workouts, hiking
-- 📚 **Reading**: Tech books, sci-fi novels, Books on history and humanities
-- 🎵 **Music**: Classical music, Instrumental music, Pop, some Rock
+- 🏃‍♂️ **Fitness & Sports**: Running, gym workouts, hiking  
+- 📖 **Reading**: Tech books, sci-fi novels, history & humanities  
+- 🎵 **Music**: Classical, instrumental, pop, soft rock
 
-## 📫 Contact Information
+---
 
-- [Email](zxyidealist@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/%E8%BD%A9%E8%AA%89-%E5%BC%A0-1b692a365/)
-- [GitHub](https://github.com/idealistxy/)
+## 📫 Contact
 
-## 💭 My Motto
+- 📧 Email: [zxyidealist@gmail.com](mailto:zxyidealist@gmail.com)  
+- 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/%E8%BD%A9%E8%AA%89-%E5%BC%A0-1b692a365/)  
+- 💻 GitHub: [idealistxy](https://github.com/idealistxy/)
 
-> "[Dream big. Start small Act now.]"
+---
+
+## 💭 Motto
+
+> *"Dream big. Start small. Act now."*
 
 ---
 
 ## 📈 GitHub Statistics
 
-- *To be updated*
+<!-- 可以在 GitHub Pages 启用这一部分 -->
+<!-- 使用 GitHub Readme Stats 插件： https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- 示例 -->
+<!--
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=idealistxy&show_icons=true&theme=default)
+-->
 
 ---
 
-### 🌈 Final Words
+## 🌈 Final Words
 
-Thank you for visiting my personal homepage! If you're interested in my projects or would like to collaborate, feel free to reach out. Let's create something meaningful together!
-
----
-
----
+Thank you for visiting my personal homepage!  
+If you're interested in my work or would like to collaborate, feel free to reach out.  
+Let's build something great together!
