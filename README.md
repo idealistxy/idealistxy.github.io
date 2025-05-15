@@ -26,7 +26,7 @@
 ## 🛠️ Skills & Expertise
 
 ### Technical Skills
-- **Programming Languages**: Python, C++
+- **Programming Languages**: C++, Python
 - **Frontend Technologies**: React, HTML5, CSS3
 - **Backend Technologies**: Node.js, Django
 - **Databases**: MySQL
