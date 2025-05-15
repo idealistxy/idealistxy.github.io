@@ -3,44 +3,33 @@
 ## 👋 About Me
 
 ### Basic Information
-- **Name**: [Your Name]
-- **Role**: [Your Profession/Title]
-- **Location**: [City, Country]
-- **Email**: [your.email@example.com]
+- **Name**: [Xuanyu Zhang]
+- **Role**: [UG student of Sun Yat-sen University/MS student of Harbin Institute of Technology, Shenzhen]
+- **Location**: [Shenzhen, China]
+- **Email**: [zxyidealist@gmail.com]
 
 ### Introduction
-[Write a brief self-introduction describing your background, interests, and goals. For example: I'm a passionate software engineer focused on full-stack development and user experience design. In my spare time, I enjoy photography, reading, and contributing to open-source projects.]
+[I am Xuanyu Zhang, a prospective graduate in Artificial Intelligence from Sun Yat-sen University. Having passed the postgraduate entrance examination, I will join the Harbin Institute of Technology (HIT) in Shenzhen to pursue a Master of Engineering degree in Computer Technology. I am currently affiliated with Prof. Toho Tien’s TMG research group at HIT.]
 
 ## 🎓 Education
 
-- **[Degree] - [Major]**  
-  *[University Name] | [Graduation Year]*
+- **[undergraduate student] - [Artifucial Intellience]**  
+  *[Sun Yat-sen University] | [2021-2025]*
   
-- **[Additional Degree/Certificate]**  
-  *[Institution Name] | [Year Obtained]*
+- **[Master of Engineering student] - [Computer Technology]**  
+  *[Harbin Institute of Technology, Shenzhen] | [2025-]*
 
 ## 💼 Professional Experience
 
-### [Company Name] - [Position Title]
-*[Start Date] - [End Date/Present]*
-
-- Responsible for [specific responsibilities]
-- Accomplished [key achievements or projects]
-- Technologies used: [relevant skills]
-
-### [Previous Company] - [Position Title]
-*[Start Date] - [End Date]*
-
-- [Responsibility description]
-- [Achievement description]
+- *To be updated*
 
 ## 🛠️ Skills & Expertise
 
 ### Technical Skills
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Frontend Technologies**: React, Vue.js, HTML5, CSS3
-- **Backend Technologies**: Node.js, Django, Spring Boot
-- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Programming Languages**: Python, C++
+- **Frontend Technologies**: React, HTML5, CSS3
+- **Backend Technologies**: Node.js, Django
+- **Databases**: MySQL
 - **Tools & Platforms**: Git, Docker, AWS, Linux
 
 ### Soft Skills
@@ -51,59 +40,37 @@
 
 ## 🚀 Featured Projects
 
-### [Project Name 1]
-**Tech Stack**: [Technologies used]  
-**Description**: [Brief description of project functionality and your contribution]  
-**Links**: [GitHub Link] | [Live Demo]
-
-### [Project Name 2]
-**Tech Stack**: [Technologies used]  
-**Description**: [Brief description of project functionality and your contribution]  
-**Links**: [GitHub Link] | [Live Demo]
-
-### [Project Name 3]
-**Tech Stack**: [Technologies used]  
-**Description**: [Brief description of project functionality and your contribution]  
-**Links**: [GitHub Link] | [Live Demo]
+- *To be updated*
 
 ## 🏆 Achievements & Certifications
 
-- [Award Name] - [Issuing Organization] ([Year])
-- [Certification Name] - [Certifying Body] ([Year])
-- [Other Achievements]
+- *To be updated*
 
 ## 📝 Blog Posts
 
-- [Article Title](link) - Published on [Date]
-- [Article Title](link) - Published on [Date]
-- [Article Title](link) - Published on [Date]
+- *To be updated*
 
 ## 🎨 Interests & Hobbies
 
 - 🏃‍♂️ **Fitness & Sports**: Running, gym workouts, hiking
-- 📚 **Reading**: Tech books, sci-fi novels, personal development
-- 🎵 **Music**: Classical music, jazz
-- ✈️ **Travel**: Exploring different cultures, capturing moments
+- 📚 **Reading**: Tech books, sci-fi novels, Books on history and humanities
+- 🎵 **Music**: Classical music, Instrumental music, Pop, some Rock
 
 ## 📫 Contact Information
 
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Personal Website**: [Your Website]
-- **Twitter**: [@yourusername]
+- **Email**: [zxyidealist@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/%E8%BD%A9%E8%AA%89-%E5%BC%A0-1b692a365/]
+- **GitHub**: [https://github.com/idealistxy/]
 
 ## 💭 My Motto
 
-> "[Insert your favorite quote or personal motto here]"
+> "[Dream big. Start small Act now.]"
 
 ---
 
 ## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+- *To be updated*
 
 ---
 
