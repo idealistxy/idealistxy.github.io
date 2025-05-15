@@ -7,7 +7,7 @@
 **Location**: Shenzhen, China  
 **Email**: [zxyidealist@gmail.com](mailto:zxyidealist@gmail.com)  
 
-I am Xuanyu Zhang, a soon-to-be graduate in Artificial Intelligence from Sun Yat-sen University. I will pursue a Master of Engineering in Computer Technology at the Harbin Institute of Technology (HIT), Shenzhen. I am currently affiliated with Prof. Toho Tien’s TMG research group at HIT, where I will begin my graduate research.
+I am Xuanyu Zhang, a soon-to-be graduate in Artificial Intelligence from Sun Yat-sen University. I will pursue a Master of Engineering in Computer Technology at the Harbin Institute of Technology (HIT), Shenzhen. I am currently affiliated with Prof. Baotian Hu’s TMG research group at HIT, where I will begin my graduate research.
 
 ---
 
