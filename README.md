@@ -58,9 +58,9 @@ I am Xuanyu Zhang, a prospective graduate in Artificial Intelligence from Sun Ya
 
 ## 📫 Contact Information
 
-- **Email**: [zxyidealist@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/%E8%BD%A9%E8%AA%89-%E5%BC%A0-1b692a365/]
-- **GitHub**: [https://github.com/idealistxy/]
+- [Email](zxyidealist@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/%E8%BD%A9%E8%AA%89-%E5%BC%A0-1b692a365/)
+- [GitHub](https://github.com/idealistxy/)
 
 ## 💭 My Motto
 
